@@ -1,3 +1,7 @@
+---
+SPDX-License-Identifier: BSD-3-Clause OR GPL-2.0
+---
+
 # test-dual-license 🤷
 
 Just testing if GitHub can detect dual licensed based on https://softwareengineering.stackexchange.com/questions/181040/how-to-document-a-dual-open-source-license.
