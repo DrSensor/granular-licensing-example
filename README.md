@@ -7,4 +7,4 @@ Just testing if GitHub can detect dual licensed based on https://softwareenginee
 This work is dual-licensed under BSD and GPL 2.0 (or any later version).
 You can choose between one of them if you use this work.
 
-`SPDX-License-Identifier: BSD-3-Clause OR GPL-2.0-or-later`
+`SPDX-License-Identifier: BSD-3-Clause OR GPL-2.0`
