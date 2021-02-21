@@ -1,6 +1,6 @@
 ---
-SPDX-License-Identifier: Apache-2.0 AND MIT
-LICENSE: Apache-2.0 AND MIT
+SPDX-License-Identifier: Apache-2.0 OR ISC
+LICENSE: Apache-2.0 OR ISC
 ---
 
 # test-dual-license 🤷
@@ -16,6 +16,6 @@ https://api.github.com/repos/DrSensor/test-dual-license/license
 - [SPDX Current Specification](https://spdx.github.io/spdx-spec/)
 
 ## License
-This work is dual-licensed under both Apache-2.0 and MIT.
+This work is dual-licensed under either Apache-2.0 or ISC.
 
-`SPDX-License-Identifier: Apache-2.0 AND MIT`
+`SPDX-License-Identifier: Apache-2.0 OR ISC`
