@@ -1,6 +1,6 @@
 ---
-LICENSE: BSD-3-Clause OR GPL-2.0
-SPDX-License-Identifier: BSD-3-Clause OR GPL-2.0
+LICENSE: Apache-2.0 OR MIT
+SPDX-License-Identifier: Apache-2.0 OR MIT
 ---
 
 # test-dual-license 🤷
@@ -11,8 +11,7 @@ Just testing if GitHub can detect dual-licensing based on [certain convention](h
 https://api.github.com/repos/DrSensor/test-dual-license/license
 
 ## License
-
-This work is dual-licensed under BSD and GPL 2.0 (or any later version).
+This work is dual-licensed under Apache-2.0 or MIT.
 You can choose between one of them if you use this work.
 
-`SPDX-License-Identifier: BSD-3-Clause OR GPL-2.0`
+`SPDX-License-Identifier: Apache-2.0 OR MIT`
