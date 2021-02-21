@@ -1,5 +1,5 @@
 ---
-License: BSD-3-Clause OR GPL-2.0
+license: BSD-3-Clause OR GPL-2.0
 ---
 
 # test-dual-license 🤷
