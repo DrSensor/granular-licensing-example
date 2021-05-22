@@ -2,9 +2,9 @@
 SPDX-License-Identifier: ISC OR MIT
 ---
 
-# dual-licensed project template 🤷
+# example of dual and granular licensed project 🤷
 
-I wish GitHub API able to recognize dual-licensed repo 😞
+> I wish GitHub API able to recognize dual-licensed repo 😞
 
 ## Test
 https://api.github.com/repos/DrSensor/test-dual-license/license
