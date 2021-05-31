@@ -21,6 +21,10 @@ https://api.github.com/repos/DrSensor/test-dual-license/license
 - [REUSE Specification](https://reuse.software/spec/)
 
 [How to document a dual open source license](https://softwareengineering.stackexchange.com/questions/181040/how-to-document-a-dual-open-source-license)
+
+## Tools
+- [lc](https://github.com/boyter/lc) - CLI which scans directories and identifies what software license things are.
+
 ## License
 This work is dual-licensed under either ISC or MIT.
 
