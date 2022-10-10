@@ -4,12 +4,13 @@ SPDX-License-Identifier: ISC OR MIT
 
 # example of dual and granular licensed project 🤷
 
-> I wish GitHub API able to recognize dual-licensed repo 😞
+> ~~I wish GitHub API able to recognize dual-licensed repo 😞~~ [GitHub now detect multiple licenses 🎉](https://github.blog/changelog/2022-05-26-easily-discover-and-navigate-to-multiple-licenses-in-repositories/)
 
 ## Test
 https://api.github.com/repos/DrSensor/test-dual-license/license
 
 ## References
+- [Bulk-license whole directories](https://reuse.software/faq/#bulk-license)
 - [Using SPDX short-form identifiers to communicate FOSS license information](https://spdx.dev/ids/) [**in each file in your project**](https://spdx.dev/ids/#how)
 - [REUSE guide on how to use license comment headers](https://reuse.software/spec/#comment-headers)
 - [SPDX License Expressions](https://spdx.github.io/spdx-spec/appendix-IV-SPDX-license-expressions/) Grammar (in [ABNF](https://en.wikipedia.org/wiki/Augmented_Backus%E2%80%93Naur_form))
